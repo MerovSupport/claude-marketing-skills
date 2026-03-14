@@ -70,25 +70,34 @@ Restez jusqu'à la fin parce que [raison de rester]."
 ### Structure de Chaque Secret
 
 ```
-Secret N° [1/2/3] : [TITRE ACCROCHEUR]
+Secret N° [1/2/3] : [TITRE ACCROCHEUR] — 15 minutes chacun
 │
-├── 1. LA CROYANCE LIMITANTE
-│   "Beaucoup de gens pensent que [croyance fausse]..."
+├── 1. HISTOIRE (ouverture)
+│   → Raconter une histoire (la tienne ou celle d'un client)
+│   → "Les gens adorent les histoires et c'est ce qui casse les croyances"
+│   → L'histoire introduit la croyance limitante à casser
 │
-├── 2. LA RÉALITÉ
-│   "En fait, voici ce qui se passe vraiment..."
-│   → Contenu de valeur, exemples, données
+├── 2. STRATÉGIE (contenu)
+│   → Ta méthode / ton approche sur ce point
+│   → Sois pédagogue et simple
+│   → Le but : prouver que TON VÉHICULE (ta méthode) est le meilleur
 │
-├── 3. LE SHIFT
-│   "Ce qui veut dire que [nouvelle perspective]..."
-│   → Aha moment
+├── 3. TÉMOIGNAGE (closing)
+│   → Termine par un témoignage client
+│   → "Le témoignage amplifie ton marketing"
+│   → Preuve que ça marche pour d'autres
 │
-├── 4. LA PREUVE
-│   Case study, témoignage, résultat personnel
-│
-└── 5. LA TRANSITION
+└── 4. TRANSITION
     "Maintenant qu'on a vu [secret N], passons à..."
 ```
+
+### Le Concept du "Véhicule" (Source: interview Antoine Blanco)
+
+Le but des 3 secrets n'est pas juste d'enseigner — c'est de convaincre que TA MÉTHODE (ton "véhicule") est la meilleure pour obtenir le résultat voulu.
+
+"Les gens ont tout entendu, ils voient plein de choses à droite à gauche. Le but de ton webinaire c'est convaincre que ton véhicule, ta méthode, c'est ce qui va leur permettre d'aller chercher le résultat."
+
+**Repackaging :** Tu peux changer le marketing de ton véhicule (nouveau nom, nouvel angle) même si la méthode reste la même.
 
 ### Comment Choisir les 3 Secrets
 

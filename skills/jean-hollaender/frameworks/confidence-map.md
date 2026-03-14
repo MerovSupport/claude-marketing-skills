@@ -23,11 +23,14 @@
 
 ## MODERATE (5-7/10 — Use With Awareness)
 
-- 40-50% show-up rate (may be peak, not average)
-- 10-12% registration page conversion (unverified)
-- ROAS 3x minimum (stated as "1€ in, 3€ out" but also mentions 10x)
-- Email segmentation: absent / present-short / present-complete (from agency page, not Jean's words)
+- **Show-up rate: 25% baseline, 40-50% optimized** — Jean says 25% in detailed interview, 40-50% on agency page. 25% is the honest starting point, 40-50% achievable with full multicanal.
+- **Direct sale conversion: 5-10% of live attendees** — stated in Antoine Blanco interview
+- **50% of total calls come from follow-up/relances** — not from the live itself. Follow-up is AS important as the webinar.
+- 10-12% registration page conversion (unverified, agency page claim)
+- ROAS 3x minimum (stated as "1€ in, 3€ out" but also mentions 10x and x30)
+- Email segmentation: absent / present-short / present-complete (from agency page)
 - Closing calls 20-30 minutes (stated once)
+- Closers get 8-10% commission, team lead (OFC) gets 3-5% on team sales
 
 ## WEAK (2-4/10 — Framework Only, Content Unknown)
 

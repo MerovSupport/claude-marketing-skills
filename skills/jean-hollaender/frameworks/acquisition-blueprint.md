@@ -91,6 +91,37 @@ Jean est passé de 50€/jour à 30-40K€/jour. "Mais tu ne passes pas comme ç
 4. **Pas obligé de se montrer** — Témoignages, UGC, visuels sans vidéo
 5. **Barrière à l'entrée = avantage** — "Tout le monde a peur de la pub, donc peu de concurrence"
 
+### Volume de Créatives au Scale (Source: interview Antoine Blanco)
+
+| Budget pub | Créatives nécessaires |
+|-----------|----------------------|
+| 50-100€/jour | 3-5 créatives différentes |
+| 200K€ total | **50 créatives différentes + variantes de hooks** |
+
+**Qualité + Quantité :** "Plus tu vas scaler, plus tu dois avoir ces deux éléments réunis."
+
+### Anatomie d'une Publicité (Source-backed)
+
+```
+1. HOOK (premières secondes)
+   → "90% de la réussite de votre publicité"
+   → Tester PLEIN d'angles et hooks différents
+   → Surtout sur YouTube
+
+2. BODY (corps)
+   → "Les mots de ton client, de ton prospect, sa psychologie"
+   → "On est souvent avec notre posture d'expert à vomir notre savoir
+      alors qu'il faut partir des mots de ton client"
+
+3. CTA (fin)
+   → Rediriger vers webinaire / challenge
+```
+
+### CPL vs ROI (Source-backed)
+
+"On s'en fiche de payer un lead 20-30€ si derrière il permet de faire x30."
+Le CPL ne compte pas — seul le ROI compte.
+
 ### Hooks Publicitaires
 
 | Format | Hook |
