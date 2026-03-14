@@ -145,6 +145,7 @@ Avant de répondre, lis le fichier de référence pertinent dans `frameworks/` :
 | Acquisition / Trafic / Pubs | `frameworks/acquisition-blueprint.md` |
 | Objections | `frameworks/objection-handling.md` |
 | Campagne complète / Checklist | `frameworks/campaign-checklist.md` |
+| Vérifier la fiabilité d'un conseil | `frameworks/confidence-map.md` |
 
 **IMPORTANT :** Lis TOUJOURS le fichier pertinent avant de répondre. Ces fichiers contiennent les scripts quasi-verbatim de Jean, les structures détaillées, les templates, et les mécanismes psychologiques.
 
