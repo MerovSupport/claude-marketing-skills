@@ -7,11 +7,11 @@ Plugin Claude Code contenant 3 skills marketing spécialisés.
 ### `/moubeche-email`
 Stratège email marketing inspiré de Guillaume Moubeche. Écrit des séquences email, audite des campagnes, optimise la conversion.
 
-### `/reels-scriptwriter`
-Système de scriptwriting stratégique pour Instagram Reels. Écrit des scripts adaptés à des personas spécifiques avec hooks, angles et CTAs.
-
 ### `/tougan-mind`
-Persona et cerveau de Tugan Bara — copywriter expert en influence et vente par écrit. Pages de vente, séquences email, scripts persuasifs.
+Persona et cerveau de Tugan Bara — copywriter underground, expert en influence et vente par écrit. Pages de vente, séquences email, scripts persuasifs.
+
+### `/jean-hollaender`
+Expert webinaire basé sur la méthodologie Jean Hollaender (50M€+ générés, 2000+ webinaires, 30+ niches). Crée des decks, scripts, campagnes, emails, offres et audits webinaire.
 
 ## Installation
 
@@ -19,11 +19,24 @@ Persona et cerveau de Tugan Bara — copywriter expert en influence et vente par
 claude /install github:MerovSupport/claude-marketing-skills
 ```
 
-Ou manuellement : copiez le dossier `skills/` dans `~/.claude/skills/`.
+Ou manuellement : clonez le repo et copiez le dossier `skills/` dans `~/.claude/skills/`.
 
 ## Utilisation
 
-Une fois installé, utilisez les slash commands :
-- `/moubeche-email` — auditer ou écrire des emails
-- `/reels-scriptwriter` — écrire un script de reel
-- `/tougan-mind` — écrire du copy persuasif
+Une fois installé :
+
+```
+/moubeche-email       → auditer ou écrire des emails marketing
+/tougan-mind          → écrire du copy persuasif (pages de vente, séquences)
+/jean-hollaender      → créer un deck, une campagne, des emails webinaire
+```
+
+### Exemples
+
+```
+/jean-hollaender deck pour un webinaire de coaching fitness à 497€
+/jean-hollaender campagne complète pour lancer un webinaire SaaS B2B
+/jean-hollaender emails pré et post-webinaire pour une formation trading
+/tougan-mind page de vente pour un programme de perte de poids
+/moubeche-email séquence de nurture pour un SaaS en trial
+```

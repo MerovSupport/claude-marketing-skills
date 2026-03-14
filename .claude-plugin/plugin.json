@@ -1,7 +1,7 @@
 {
   "name": "claude-marketing-skills",
-  "description": "Skills Claude Code pour le marketing : email (Moubeche), copywriting (Tugan), Reels Instagram",
-  "version": "1.0.0",
+  "description": "Skills Claude Code pour le marketing : email (Moubeche), copywriting (Tugan Bara), webinaires (Jean Hollaender)",
+  "version": "1.1.0",
   "author": { "name": "Tanguy Seveno" },
   "repository": "https://github.com/MerovSupport/claude-marketing-skills"
 }
