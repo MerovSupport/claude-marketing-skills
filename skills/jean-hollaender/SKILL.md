@@ -53,44 +53,76 @@ J+1 à J+7   │ Follow-up : replay, emails urgence, appels
 RÉPÉTER CHAQUE SEMAINE JUSQU'AU PREMIER MILLION
 ```
 
-### Structure du Deck en 5 Étapes
+### La Méthode PROFIT (Framework Central — Décodé du Bootcamp Limitless)
 
 ```
-ÉTAPE 1 — INTRO (5-10 min)
-  → Accrocher, raconter ton histoire, créer le lien
+P = PUBLICITÉ      → Trafic / Acquisition (pubs + organique + partenaires + influenceurs)
+R = REGISTRATION    → Page d'inscription (headline = tout, ugly pages > belles pages avec mauvais copy)
+O = ONBOARDING      → Accueil pré-webinaire (thank-you page ≠ juste "Merci", vidéo + WhatsApp + calendrier)
+F = FRÉQUENTATION   → Taux de présence multicanal (email + SMS + WhatsApp + appel vocal + calendrier)
+I = INTERACTION     → Le show live (6 phases : Mise en situation → Storytelling → Enseignement → Pivot → Vente → Objections)
+T = TRANSACTION     → La vente (5 éléments : Promesse + Valeur ×10 + Bonus + Urgence + Garantie)
+S = SUIVI           → Follow-up post-webinaire (1/3 à 1/2 du CA total vient APRÈS le live)
+```
 
-ÉTAPE 2 — 3 GRANDS SECRETS (45 min)
-  → 3 thématiques qui cassent les croyances limitantes
-  → Créer des "aha moments" (shifts de perspective)
+"90% de vos premiers 100,000€ se trouvent dans le show de votre webinaire."
+
+### Structure du Webinaire en 6 Phases
+
+```
+PHASE 1 — MISE EN SITUATION (5-10 min)
+  → Capter l'attention. Répondre à : "Pourquoi rester ?"
+
+PHASE 2 — STORYTELLING (10 min)
+  → Histoire personnelle. Rapport, confiance, légitimité.
+
+PHASE 3 — ENSEIGNEMENT / 3 SECRETS (45 min, 3 × 15 min)
+  → Chaque secret : Story → Strategy → Testimonial
+  → But : prouver que TON VÉHICULE (ta méthode) est le meilleur
+  → Lever les 3 plus grosses objections
+  → Créer des "aha moments"
   → PAS un coaching gratuit, PAS un cours magistral
 
-ÉTAPE 3 — PIVOT (2-3 min)
+PHASE 4 — PIVOT (2-3 min)
   → "Est-ce que ça vous a plu ?"
   → "Est-ce que c'est OK si je prends 10 min pour vous présenter quelque chose ?"
   → "Pour ceux qui veulent partir, allez-y, je ne vous retiens pas"
   → Demander l'AUTORISATION = engagement psychologique
 
-ÉTAPE 4 — OFFRE (10-15 min)
+PHASE 5 — VENTE / OFFRE (15-30 min)
   → Promesse + Produit + Bonus + Garantie + Témoignages + Stack + Urgence
+  → "Le cerveau est un peu con, il se rappelle juste du dernier élément" → value stacking essentiel
 
-ÉTAPE 5 — CTA + Q&A (illimité)
+PHASE 6 — OBJECTIONS + Q&A (illimité)
   → < 1000€ : lien d'achat direct
-  → > 1000€ : réserver un appel (20-30 min suffisent, prospects pré-chauffés)
-  → Rester aussi longtemps qu'il y a des questions
+  → > 1000€ : réserver un appel (20-30 min, CTA = "audit de candidature")
+  → Rester aussi longtemps qu'il y a des questions (3-7h courant)
+  → Le plus gros bloqueur n'est JAMAIS la solution — c'est la confiance en soi du prospect
 ```
 
-### Formule d'Offre
+### 5 Éléments d'une Offre Irrésistible
 
 ```
-OFFRE = Promesse Forte (le prospect voit où il va)
-      + Produit Principal (la transformation)
-      + Bonus (simplifient/accélèrent la réussite du client)
-      + Garantie (rassure, enlève TOUTES les peurs)
-      + Autorité (témoignages, preuves, résultats)
-      + Urgence/Exclusivité
+1. LA PROMESSE          → Répondre en une phrase : pourquoi acheter ?
+2. VALEUR PERÇUE ×10    → Le prospect doit sentir que la valeur = 10× le prix
+3. LES BONUS            → Chaque bonus élimine une peur/un obstacle. "Done-for-you" = accélérateurs
+4. URGENCE & RARETÉ     → Sans urgence, les gens n'agissent JAMAIS. Non-négociable.
+5. LA GARANTIE          → Résultats, remboursement, ou continuité. Réduit la peur d'agir.
 ```
 
 **Règle des bonus :** "Les bonus doivent avoir tellement de valeur que les gens sont prêts à acheter l'offre JUSTE pour un bonus."
+
+### Le "Big Domino"
+
+Trouver la SEULE croyance qui, une fois installée, rend toutes les objections non pertinentes :
+> "Si je peux convaincre que [croyance centrale], ET que [ma méthode] est le meilleur moyen, alors toutes les résistances tombent."
+
+### Hiérarchie : Marché > Offre > Marketing
+
+Le meilleur marketing ne sauvera jamais une mauvaise offre ou un mauvais marché.
+1. **Marché** — Y a-t-il de la demande ? Les gens paient-ils pour ça ?
+2. **Offre** — Est-elle irrésistible ? (Erreur #1 = offre pas assez forte)
+3. **Marketing** — ENSUITE optimiser acquisition et conversion
 
 ### Système de Show-Up Multicanal
 

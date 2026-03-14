@@ -4,9 +4,19 @@
 
 ---
 
-## LE FRAMEWORK "PROFIT" (Nom Propriétaire)
+## LA MÉTHODE PROFIT — DÉCODÉE (Jour 2)
 
-Jean appelle sa méthodologie le "PROFIT Method". Détails enseignés dans le cours Liberty Webi.
+```
+P = PUBLICITÉ      → Trafic / Acquisition
+R = REGISTRATION    → Page d'inscription / Opt-in
+O = ONBOARDING      → Accueil pré-webinaire (thank-you page + séquences)
+F = FRÉQUENTATION   → Taux de présence (multicanal)
+I = INTERACTION     → Le show live (présentation)
+T = TRANSACTION     → La vente (offre + pitch)
+S = SUIVI           → Follow-up post-webinaire
+```
+
+Chaque lettre = un levier. Améliorer chaque levier de 10-15% = doubler le business total ("Improvement Multiplier").
 
 ---
 
