@@ -6,6 +6,8 @@
 
 L'email est un canal PARMI d'autres. Le système Jean est MULTICANAL (email + SMS + WhatsApp + calendrier + appel vocal).
 
+**⚠️ Note de confiance :** Les structures de séquences ci-dessous sont documentées. Le COPY exact des emails est inféré — Jean n'a pas partagé publiquement ses templates email. Adapter le ton et le style à chaque niche.
+
 ---
 
 ## PRÉ-WEBINAIRE
@@ -26,7 +28,7 @@ L'email est un canal PARMI d'autres. Le système Jean est MULTICANAL (email + SM
 **Objectif :** Maintenir l'excitation + préparer mentalement
 
 **Éléments :**
-- Avant-goût du contenu
+- Avant-goût du contenu (curiosité, pas spoiler)
 - Insight rapide ou statistique choc
 - Curiosité sur les "3 secrets"
 - Rappel date/heure
@@ -66,8 +68,8 @@ L'email est un canal PARMI d'autres. Le système Jean est MULTICANAL (email + SM
 | Segment | Comportement | Stratégie |
 |---------|-------------|-----------|
 | **A : Absents** | Inscrits mais non présents | Replay + urgence |
-| **B : Présents courts** | Venus mais partis avant l'offre | Replay offre |
-| **C : Présents complets** | Restés jusqu'à l'offre, pas acheté | Close |
+| **B : Présents courts** | Venus mais partis avant l'offre | Replay offre + valeur |
+| **C : Présents complets** | Restés jusqu'à l'offre, pas acheté | Close (objections + urgence) |
 
 ---
 
@@ -115,11 +117,17 @@ Objet : Dernier jour pour voir le replay
 - Lien vers l'offre ou booking d'appel
 ```
 
-**Email C2 — Objections (J+2)**
+**Email C2 — Objections/FAQ (J+2)**
 ```
-- "Voici les questions qu'on me pose le plus souvent..."
-- FAQ : prix, temps, garantie, résultats
-- Chaque réponse = casser une objection
+Objet : Les 5 questions qu'on me pose le plus
+
+1. "Est-ce que ça marche dans [ma niche] ?"
+2. "Je n'ai pas le budget pour commencer"
+3. "Et si ça ne marche pas pour moi ?"
+4. "J'ai déjà essayé et ça n'a pas marché"
+5. "Je ne suis pas expert"
+
+Chaque réponse = casser une objection
 ```
 
 **Email C3 — Urgence (J+3)**
@@ -135,6 +143,21 @@ Objet : Dernier jour pour voir le replay
 - Dernière chance
 - Rappel garantie
 ```
+
+---
+
+## LE FOLLOW-UP = 30-50% DU CA TOTAL
+
+> "La moitié des ventes vient APRÈS le live."
+
+| Source | % du CA total |
+|--------|--------------|
+| Ventes live | 50-70% |
+| Follow-up email + SMS | 15-25% |
+| Retargeting pub | 10-20% (ROI x16-x25) |
+| Appels closers relance | 5-15% |
+
+**Ne JAMAIS négliger le follow-up.** C'est là que se cache une part massive du chiffre d'affaires.
 
 ---
 
@@ -156,10 +179,11 @@ DIMANCHE : Follow-up J+2 (urgence + close)
 
 | Principe | Détail |
 |----------|--------|
-| **Valeur d'abord** | Même les rappels doivent apporter de la valeur |
-| **Multicanal** | Email = un canal parmi d'autres |
-| **Segmentation comportementale** | Séquences différentes selon le comportement |
-| **Urgence justifiée** | Replay limité, offre qui ferme |
-| **SMS = must have** | SMS 10-15 min avant, taux d'ouverture supérieur |
-| **Calendrier** | Notification dans l'agenda = "un vrai hack" |
-| **Récupération de paniers** | Systèmes automatisés de relance abandons |
+| **Valeur d'abord** | Même les rappels doivent apporter de la valeur, pas juste "n'oublie pas" |
+| **Multicanal** | Email = un canal parmi d'autres. SMS + WhatsApp + calendrier + appel vocal |
+| **Segmentation comportementale** | Séquences différentes selon le comportement pendant le webinaire |
+| **Urgence justifiée** | Replay limité, offre qui ferme — pas de fausse urgence |
+| **SMS = must have** | SMS 10-15 min avant, taux d'ouverture bien supérieur à l'email |
+| **Calendrier** | Notification dans l'agenda = hack de show-up puissant |
+| **Follow-up = 30-50% du CA** | Ne jamais sous-estimer le post-webinaire |
+| **Retargeting** | ROI x16-x25. Complémentaire aux emails. |

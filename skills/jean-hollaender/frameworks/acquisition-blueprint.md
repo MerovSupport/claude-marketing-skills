@@ -10,6 +10,9 @@ PHASE 1 — ORGANIQUE (Validation)
         ↓
 PHASE 2 — PUBLICITÉ (Scale)
 → Réinvestir une partie des ventes en pub
+        ↓
+PHASE 3 — SCALE (Volume)
+→ Budget croissant, équipe créative, retargeting
 ```
 
 ---
@@ -34,10 +37,18 @@ PHASE 2 — PUBLICITÉ (Scale)
 
 | Étape | Inscrits | Action |
 |-------|---------|--------|
-| Webinaire à blanc | 0 | S'entraîner seul ou avec famille |
+| Webinaire à blanc | 0 | S'entraîner seul |
 | Premier vrai | 3-5 | Organique (stories, réseau) |
 | Itérations | 10-20 | Organique élargi |
 | Validation | Première vente | → Prêt pour la pub |
+
+### L'Organique Prend du Temps
+
+> "Si tu veux pas faire de pub, tu seras obligé d'être extrêmement rigoureux sur ton organique."
+
+- Mieux vaut 1000 vues qualifiées que 100 000 vues avec la mauvaise audience
+- Créer du contenu de qualité > créer du contenu en volume
+- L'organique crée la confiance et le branding, les ads amplifient
 
 ---
 
@@ -48,7 +59,7 @@ PHASE 2 — PUBLICITÉ (Scale)
 | Paramètre | Valeur |
 |-----------|--------|
 | **Quand lancer** | 7-10 jours avant le webinaire |
-| **Budget de départ** | 50€/jour |
+| **Budget de départ** | 50€/jour (150-200€ total suffisent pour commencer) |
 | **Focus** | 90% du travail sur la CRÉATIVE |
 | **Scaling** | Tant que rentable, augmenter progressivement |
 
@@ -85,28 +96,40 @@ Jean est passé de 50€/jour à 30-40K€/jour. "Mais tu ne passes pas comme ç
 
 ### Principes
 
-1. **Fond > Forme** — "Le plus important, c'est ce que tu vas dire"
-2. **Tous les formats marchent** — "Ça touche des poches d'audience différentes"
-3. **Adapter aux codes réseaux** — Reprendre tendances, hooks, accroches
-4. **Pas obligé de se montrer** — Témoignages, UGC, visuels sans vidéo
-5. **Barrière à l'entrée = avantage** — "Tout le monde a peur de la pub, donc peu de concurrence"
+1. **Fond > Forme** — "Le plus important, c'est ce que tu vas DIRE"
+2. **80% est non-verbal** — énergie, émotion, posture comptent autant que le script
+3. **Tous les formats marchent** — "Ça touche des poches d'audience différentes"
+4. **Adapter aux codes réseaux** — Reprendre tendances, hooks, accroches
+5. **Pas obligé de se montrer** — Témoignages, UGC, visuels sans vidéo
+6. **Barrière à l'entrée = avantage** — "Tout le monde a peur de la pub, donc peu de concurrence"
+7. **Créer des pubs comme du contenu** — schedule régulier, pas ponctuel
 
-### Volume de Créatives au Scale (Source: interview Antoine Blanco)
+### La Dimension Non-Verbale des Ads
+
+> "80% des publicités, c'est le non-verbal — l'énergie, l'émotion, la posture."
+
+- La nutrition impacte l'énergie des tournages
+- Traiter la création d'ads comme un schedule régulier (comme le contenu social)
+- L'énergie du présentateur est plus importante que le script
+
+### Volume de Créatives au Scale
 
 | Budget pub | Créatives nécessaires |
 |-----------|----------------------|
 | 50-100€/jour | 3-5 créatives différentes |
-| 200K€ total | **50 créatives différentes + variantes de hooks** |
+| 500€/jour | 10-15 créatives |
+| 200K€ total lancement | **50 créatives + variantes de hooks** |
+| Scale massif | 130 ads × 5 variations = 350 total |
 
 **Qualité + Quantité :** "Plus tu vas scaler, plus tu dois avoir ces deux éléments réunis."
 
-### Anatomie d'une Publicité (Source-backed)
+### Anatomie d'une Publicité
 
 ```
 1. HOOK (premières secondes)
    → "90% de la réussite de votre publicité"
    → Tester PLEIN d'angles et hooks différents
-   → Surtout sur YouTube
+   → Surtout critique sur YouTube
 
 2. BODY (corps)
    → "Les mots de ton client, de ton prospect, sa psychologie"
@@ -116,11 +139,6 @@ Jean est passé de 50€/jour à 30-40K€/jour. "Mais tu ne passes pas comme ç
 3. CTA (fin)
    → Rediriger vers webinaire / challenge
 ```
-
-### CPL vs ROI (Source-backed)
-
-"On s'en fiche de payer un lead 20-30€ si derrière il permet de faire x30."
-Le CPL ne compte pas — seul le ROI compte.
 
 ### Hooks Publicitaires
 
@@ -132,6 +150,39 @@ Le CPL ne compte pas — seul le ROI compte.
 | **Micro-trottoir** | "Est-ce que vous savez combien achètent pendant un webinaire ?" |
 | **Témoignage** | "[Client] : Avec cette méthode, j'ai fait [résultat] en [durée]" |
 
+### CPL vs ROI
+
+> "On s'en fiche de payer un lead 20-30€ si derrière il permet de faire x30."
+
+Le CPL ne compte pas en isolation — seul le ROI final compte.
+
+---
+
+## PHASE 3 — SCALE
+
+### Le Branding en 2025
+
+> "En 2025, le branding est devenu crucial. Les gens achètent des MARQUES, pas des tunnels."
+
+- Front-end ROI peut être faible (break-even acceptable)
+- Le vrai profit vient du back-end (LTV, upsells, mastermind)
+- Investir dans le branding = investir dans la confiance long terme
+
+### Créative > Media Buying
+
+> "La créative est plus importante que le media buying."
+
+- Le meilleur media buyer ne peut rien avec une mauvaise créative
+- Recruter des copywriters > recruter un media buyer (au début)
+- 4-5 copywriters en compétition = meilleur résultat
+
+### Retargeting
+
+- ROI retargeting : **x16-x25** (beaucoup plus élevé que l'acquisition initiale)
+- Retargeter les inscrits qui n'ont pas acheté
+- Retargeter les présents qui sont partis avant l'offre
+- Le retargeting = la data la plus rentable
+
 ---
 
 ## FUNNEL TYPE
@@ -139,7 +190,7 @@ Le CPL ne compte pas — seul le ROI compte.
 ```
 TRAFIC (Pub/Organique)
         ↓
-PAGE D'INSCRIPTION (conversion cible : 10-12%)
+PAGE D'INSCRIPTION (objectif : 30%+ depuis pub, 40% agence)
         ↓
 PAGE DE REMERCIEMENT
 ├── Communauté WhatsApp
@@ -153,28 +204,18 @@ WEBINAIRE LIVE
 ├── Achat direct (< 1000€)
 ├── Booking appel (> 1000€)
 └── Pas converti → FOLLOW-UP SEGMENTÉ
+        ↓
+RETARGETING (x16-x25 ROI)
 ```
 
 ---
 
-## MODÈLE HORMOZI (Référence Avancée)
+## KPIs ACQUISITION
 
-| Phase | Timing | Action |
-|-------|--------|--------|
-| Chuchotement | J-45 | "On prépare quelque chose" |
-| Teaser | J-30 | Premières campagnes (budget : 4M€) |
-| Thank-you page | Dès inscription | Pass VIP $27 → 6M€ avant le webinaire |
-| Webinaire | J-0 | 580K inscrits → 120M€+ de ventes |
-
-**Note Jean :** "C'est très à l'américaine. En France, commencez 7-10 jours avant."
-
----
-
-## KPIS ACQUISITION
-
-| KPI | Benchmark Jean |
-|-----|----------------|
-| Taux conversion page | **10-12%** |
-| Taux show-up | **40-50%** |
-| ROAS | **3x minimum** (1€ in, 3€ out) |
-| CPA inscrit | Variable par niche |
+| KPI | Débutant | Intermédiaire | Agence |
+|-----|----------|--------------|--------|
+| Opt-in rate (pub) | 20%+ | 30%+ | 40%+ |
+| Show-up | 20-25% | 25-33% | 40%+ |
+| CPL | Variable | ~5€ | Pas prioritaire (ROI final compte) |
+| ROAS | 1.5x+ | 2.5x+ | 3x+ (10x+ avec back-end) |
+| Hook retention | — | >25% | 30%+ |
