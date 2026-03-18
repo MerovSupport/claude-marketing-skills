@@ -17,69 +17,108 @@
 
 ---
 
-## Blueprint 1: Cold Outreach Sequence [Moubeche principle]
+## Blueprint 1: Cold Outreach — Full Multichannel Sequence [Moubeche principle]
 
-### Structure (5-7 emails, 15-25 days)
+### The Moubeche 9-Step Multichannel Sequence (45 days total)
 
-**Email 1 — The Opener (Day 0)**
-- Tiramisu personalized intro
-- PAS framework: problem → agitate → solution
-- Single soft CTA (interest check, not meeting request)
+This is the actual operational sequence from Guillaume's videos. The 3-week familiarity period is NOT optional — it's the highest-leverage part.
+
+**PHASE 0 — FAMILIARITY BUILDING (Day -21 to Day 0)**
+
+```
+Day -21: LinkedIn connection request
+  → NO message in the invitation
+  → Your LinkedIn profile must speak to their problems
+  → Example headline: "I share daily tips on scaling B2B outbound"
+
+Days -21 to 0: DO NOTHING — Let familiarity build
+  → They see your posts in their feed
+  → They visit your profile
+  → "À partir du moment où tu as de la familiarité avec quelqu'un,
+     quand cette personne t'écrit, tu es plus à même de répondre"
+```
+
+**PHASE 1 — OUTREACH (Day 0 to Day 25)**
+
+**Step 1 — Email 1 (Day 0)**
+- Tiramisu personalization WITH relevance bridge
+- PAS framework or Value-First approach
+- About THEM, not about you
+- Pattern interrupt opening (no "Bonjour prénom")
+- Single soft CTA
 - 75-120 words
 
-**Email 2 — The Value Add (Day 2)**
+**Step 2 — Email 2 (Day 2)**
 - Same thread (no new subject line)
-- New angle on the problem
-- Social proof: one relevant case study
-- Slightly more direct CTA
-- 80-120 words
+- VERY SHORT: "Juste un petit message pour savoir si tu avais bien reçu mon email ?"
+- One line. Low effort to respond.
+- Can add a specific time CTA: "dispo jeudi ?"
+- 20-50 words
 
-**Email 3 — The Proof (Day 6)**
-- Specific result for a similar company
-- Quantified outcome (%, $, time saved)
-- Binary CTA: "Option A or Option B?"
-- 60-100 words
-
-**Email 4 — The Education (Day 10)**
-- Share a relevant insight or resource
-- Position yourself as expert, not seller
-- Link to content (article, video, guide)
-- Soft CTA: "thought this might be useful"
-- 80-120 words
-
-**Email 5 — The Direct Ask (Day 15)**
-- Shorter. More direct.
-- Restate the core value proposition in one sentence
-- Calendar link or specific time suggestion
+**Step 3 — LinkedIn Message 1 (Day 5)**
+- Puts you in direct contact
+- They can click your profile and see your content
+- Short, value-oriented, references your email
 - 50-80 words
 
-**Email 6 — The Breakup (Day 20-25)**
-- Acknowledge silence
-- One-line value recap
-- Referral question: "Are you the right person for this?"
-- Permission to close: "No hard feelings if the timing is off"
-- Optional humor/GIF
+**Step 4 — LinkedIn Follow-Up (Day 7)**
+- Brief follow-up on LinkedIn
+- New angle or quick value add
+- 30-50 words
+
+**Step 5 — LinkedIn Profile Visit (Day 9)**
+- Just visit their profile
+- Creates a notification
+- Passive reminder of your existence
+
+**Step 6 — Email 3 (Day 12)**
+- Mention you also reached out on LinkedIn
+- Add case studies or social proof (success stories from similar clients)
+- More value, slightly more direct
+- 80-120 words
+
+**Step 7 — Email 4 (Day 16)**
+- Share content: article, guide, insight
+- "Some prospects won't talk to you until they've consumed your content"
+- Position as expert, not seller
+- 80-120 words
+
+**Step 8 — Email 5 or LinkedIn (Day 20)**
+- Direct ask or breakup approach
+- Restate core value in one sentence
+- Calendar link or specific time
 - 50-80 words
 
-### Timing Rules [Moubeche principle]
-| Gap | Between |
-|-----|---------|
-| 2 days | Email 1 → 2 |
-| 4 days | Email 2 → 3 |
-| 4 days | Email 3 → 4 |
-| 5 days | Email 4 → 5 |
-| 5-10 days | Email 5 → 6 |
+**Step 9 — Final Touch (Day 25)**
+- Breakup email OR referral ask
+- "Est-ce que tu connais d'autres personnes qui ont le problème XYZ ?"
+- Permission to close
+- 50-80 words
 
-### Multichannel Integration [Moubeche principle]
-Layer LinkedIn and phone alongside email:
-- **Day -1:** LinkedIn profile visit (creates awareness)
-- **Day 0:** Email 1
-- **Day 1:** LinkedIn connection request (no sales pitch)
-- **Day 3:** Email 2 + LinkedIn profile visit
-- **Day 7:** Email 3 + LinkedIn message (if connected)
-- **Day 11:** Email 4
-- **Day 16:** Email 5 + LinkedIn voice message (30-45 sec)
-- **Day 22:** Email 6 (breakup) + phone call for high-value prospects
+### Timing Variation Rules [Moubeche principle]
+
+> "Alterner les jours. 7 jours exactement, ça fait trop automatisé. Les gens se disent 'tous les jeudis, il m'envoie le même message.'"
+
+- Vary gaps between 2-8 days (never exactly the same interval)
+- Vary days of the week
+- You don't know their schedule — "le jeudi c'est peut-être le jour où il fait de l'équitation"
+
+### The 3-Tier Personalization System [Moubeche principle]
+
+| Tier | Effort | Personalization | Volume |
+|------|--------|----------------|--------|
+| **Tier 1** (highest value) | 5-10 min/prospect | Manual icebreaker: read their articles, watch content, find specific connection. "J'ai adoré ton article sur X, j'ai bien aimé quand tu parlais de tes erreurs en recrutement" | Low volume, high conversion |
+| **Tier 2** (medium value) | 1-2 min/prospect | Segment-based: "I saw you sell courses + have a YouTube channel with lots of subscribers" — applies to many but feels personal | Medium volume |
+| **Tier 3** (lower value) | Automated | Variable-based: industry, role, company size, trigger events | High volume, lower conversion |
+
+### Image & Video Personalization [Moubeche principle]
+
+| Format | Description | Effect |
+|--------|-------------|--------|
+| **Starbucks cup** | Your photo holding a coffee cup with {{firstName}} dynamically inserted | "Le premier truc que tu vois, c'est un mec avec un gobelet avec ton prénom" |
+| **Website screenshot** | Your photo at laptop with {{websiteScreenshot}} dynamically inserted | "On était en train de regarder ton site internet et on a noté 5-6 idées" |
+| **Personalized video** (Tier 1) | < 1 minute video about the specific person | "Faire des recherches, dire pourquoi on devrait se rencontrer" |
+| **Segment video** (Tier 2) | < 1 minute video for a target segment | "Describe them in 2-3 lines. They feel touched even though many people match the description." |
 
 ### Performance Benchmarks [Moubeche principle]
 | Metric | Target |

@@ -10,6 +10,8 @@
 6. **No ALL CAPS.** Ever.
 7. **Lowercase preferred** for cold outreach (feels personal, not mass-sent).
 8. **Pain > benefit.** "Negative reviews on Google" outperforms "Google presence insights."
+9. **Most human way possible.** "Comment est-ce que je peux mettre le truc le plus concis possible ?" — describe the email's content in the simplest, most human way.
+10. **Don't be deceptive.** "Il ne faut pas être déceptif. C'est comprendre la psychologie, pas manipuler."
 
 ## Data Points [Moubeche principle]
 
@@ -17,80 +19,105 @@
 - {{firstName}} alone shows "no notable difference" in open rates
 - {{painPoint}} and {{competitor}} variables outperform name-only personalization
 - Readability alone increases open rates by 6%
+- Short subjects work well for open rates, BUT long specific subjects work well too
+- "Il n'y a pas forcément énormément de corrélation entre la taille de l'objet et l'ouverture"
+
+## Subject Line Philosophy [Moubeche principle]
+
+Guillaume's approach is ultra-simple: **describe the email's content in the most human, succinct way possible.**
+
+> "Un humain a la flemme. Comment est-ce que je peux mettre le truc le plus concis possible ?"
+
+Examples from his practice:
+- Sending a document → subject: "document"
+- Sending a video → subject: "vidéo"
+- First outreach → subject: "intro"
+- Sending a PDF → subject: "PDF"
+
+The principle: **write the subject line like a human who can't be bothered to write a long subject line.** That's what makes it feel real.
 
 ## Subject Line Angles (with templates)
 
-### 1. Pain-Focused
+### 1. Ultra-Simple / Human [Moubeche principle]
 ```
-{{painPoint}} getting worse?
-struggling with [problem]?
-[problem] at {{company}}?
-losing [metric] to [cause]?
+intro
+document
+quick question
+café, {{firstName}} ?
 ```
 
-### 2. Curiosity / Open Loop
+### 2. Event/Context-Specific [Moubeche principle]
 ```
-quick question
+[event name] + meeting + {{firstName}}
+rencontre-nous à [conference]
+re: [topic they posted about]
+```
+
+### 3. Pain-Focused [Moubeche principle]
+```
+{{painPoint}} getting worse?
+plus d'ouvertures ?
+struggling with [problem]?
+[problem] at {{company}}?
+```
+
+### 4. Value / Ideas [Moubeche principle]
+```
+idées et feedback pour {{company}}
+3 ideas for {{painPoint}}
+idea for {{company}}
+feedback pour {{company}}
+```
+
+### 5. Curiosity / Open Loop
+```
 one idea for {{company}}
 thought about this
 noticed something
 ```
 
-### 3. Social Proof
+### 6. Social Proof
 ```
 [competitor] just switched
 how [similar company] fixed [problem]
-what [industry] leaders are doing differently
 ```
 
-### 4. Trigger-Based
+### 7. Trigger-Based
 ```
 congrats on the funding
 saw your post about [topic]
 re: {{company}}'s new [initiative]
-your [recent event]
 ```
 
-### 5. Direct / Simple
+### 8. Company Name Insertion [Moubeche principle]
 ```
-idea for {{company}}
-[topic]
-{{firstName}} — quick thought
-can I help?
+{{companyName}} + [topic]
+{{companyName}}
 ```
+> "Insérer le nom de la compagnie, ça marche bien."
 
-### 6. Question
+### 9. Question
 ```
 still using [old method]?
 who handles [function] at {{company}}?
-open to a quick chat?
 ```
 
-### 7. Result-Focused
-```
-40% more [metric]
-cut [problem] in half
-[company] went from X to Y
-```
-
-### 8. Contrarian
+### 10. Contrarian
 ```
 stop doing [common practice]
 [popular advice] is wrong
-why [accepted truth] fails
 ```
 
-### 9. Personal Connection
+### 11. Personal Connection
 ```
-{{firstName}}, loved your take on [topic]
+café, {{firstName}} ?
 fellow [industry/role] here
 [mutual connection] mentioned you
 ```
 
-### 10. Urgency (use sparingly, never fake)
+### 12. Urgency (use sparingly, never fake)
 ```
 last call — [offer]
-closing [date]
 {{firstName}}, before Friday
 ```
 
@@ -105,6 +132,15 @@ These achieved 80%+ open rates in lemlist campaigns:
 6. "3 ideas for {{painPoint}}"
 7. "Question about company culture @ {{companyname}}"
 8. "Hey {{firstName}}, congrats on your funding round"
+
+## Hacks That Work (Use Judiciously) [Moubeche principle]
+
+| Hack | Effect | Guillaume's Take |
+|------|--------|-----------------|
+| **No subject line at all** | Very high open rates | "Ça fonctionne très très bien. Mais c'est un peu scrapy." |
+| **"intro"** as subject | Feels like a genuine introduction | "Un truc que je fais systématiquement" |
+| **Part of the problem** in subject | Targets pain directly | "Ça fait mouche et ça va prendre" |
+| **café, [prénom]** | Networking feel | "Ça a bien marché et ça marche toujours" |
 
 ## Banned Words [Moubeche principle]
 
@@ -124,10 +160,11 @@ When asked to generate subject lines:
 1. Ask: What's the email type? (cold, nurture, sales, launch, reactivation)
 2. Ask: Who's the audience? (role, industry, pain point)
 3. Ask: What's the core offer/value?
-4. Generate 10-15 options across at least 5 different angles
-5. Rank by likely performance with reasoning
-6. Recommend top 2-3 for A/B testing
-7. Flag any that risk spam filters
+4. **Apply the "most human, most succinct" test** — would a lazy human write this?
+5. Generate 10-15 options across at least 5 different angles
+6. Rank by likely performance with reasoning
+7. Recommend top 2-3 for A/B testing
+8. Flag any that risk spam filters or feel deceptive
 
 ## Preview Text [Inferred extension]
 
@@ -141,4 +178,4 @@ Preview text (preheader) appears after the subject line in the inbox. Rules:
 |-------------|-------------|--------------|
 | "quick question" | "Hi, I wanted to reach out..." | "about your team's outreach process" |
 | "idea for {{company}}" | "My name is John and I work at..." | "saw something in your funnel worth fixing" |
-| "{{painPoint}} getting worse?" | "We offer solutions for..." | "here's what [similar company] did about it" |
+| "intro" | "Dear Sir/Madam..." | "J'ai vu que tu venais de recruter 3 SDRs" |

@@ -347,13 +347,131 @@ Either way — no pressure. Your call.
 
 ---
 
+## Template 12: Networking / Asking for Help [Moubeche principle — Guillaume's own template]
+
+This is the actual template Guillaume used to build his network when launching Lemlist:
+
+```
+Subject: {{specificTopic}}
+
+Hey {{firstName}},
+
+J'ai vu que tu avais réussi à [specific achievement, e.g., "grossir ta boîte SaaS jusqu'à 50K d'ARR"].
+
+De mon côté, voilà ce que j'ai accompli : [your credibility, e.g., "on a signé nos 100 premiers clients en moins de 6 mois, essentiellement en prospection"].
+
+J'ai vu que tu avais réussi à mettre en place [thing they did well, e.g., "une stratégie de contenu qui rapporte énormément de leads"]. J'ai pas encore mis ça en place et je pense que c'est le futur pour nous.
+
+Quelles sont selon toi les 3 grosses erreurs à éviter pour y arriver ?
+
+Et comme je sais que tu dois souvent être sollicité, sache que j'appliquerai tous tes conseils et que je reviendrai vers toi 3-4 mois plus tard pour te donner les résultats.
+
+D'ailleurs, si toi tu es intéressé pour avoir des conseils en [your expertise], n'hésite pas — avec plaisir pour [specific offer, e.g., "review tes cold emails ou ta stratégie de prospection"].
+
+[Sign-off]
+```
+
+**Why it works:**
+- Specific about what you admire (not generic flattery)
+- Shows YOUR credibility (not a random nobody)
+- Asks a SPECIFIC question (not "can I pick your brain")
+- Promises to apply and report back (rare, builds trust)
+- Offers something in return (reciprocity)
+
+---
+
+## Template 13: Value-First / Ideas Approach [Moubeche principle]
+
+```
+Subject: idées et feedback pour {{company}}
+
+J'ai vu que {{specific observation about their business}}.
+
+J'ai noté 5-6 idées qui pourraient aider avec {{specific area}}.
+Les 3 premières :
+1. {{idea 1}}
+2. {{idea 2}}
+3. {{idea 3}}
+
+Si tu as envie de connaître la suite, on se fait un petit call de 10 min ?
+Premier, ça n'engage à rien.
+
+[Sign-off]
+```
+
+**Why it works:** Value FIRST. Curiosity gap drives the meeting. You already proved you did research.
+
+---
+
+## Template 14: The Starbucks / Visual Personalization Approach [Moubeche principle]
+
+```
+Subject: café, {{firstName}} ?
+
+[Personalized image: your photo holding a Starbucks cup with {{firstName}} dynamically inserted on it]
+
+J'ai pris le temps de regarder ce que {{company}} fait sur {{topic}}.
+
+[One specific, relevant observation about their business]
+
+Si tu as 10 min, je te propose un café virtuel pour échanger sur {{topic}}.
+
+Jeudi ou vendredi, ça te dit ?
+
+[Sign-off]
+```
+
+---
+
+## Template 15: Referral Request (After Rejection) [Moubeche principle]
+
+```
+Subject: [same thread — no new subject]
+
+Merci pour ta transparence, {{firstName}}.
+
+Est-ce que tu connais d'autres personnes qui pour toi rencontrent le problème {{painPoint}} ?
+
+Si oui, je te prépare un petit message et tu leur envoies en me mettant en copie — ça te prend 10 secondes.
+
+[Sign-off]
+```
+
+---
+
+## Template 16: The Async Help Request [Moubeche principle — Guillaume's format]
+
+For high-value contacts who don't do calls:
+
+```
+Subject: {{specificTopic}}
+
+Hey {{firstName}},
+
+[Tiramisu personalization with relevance]
+
+Plutôt que de prendre un call, est-ce que je peux t'envoyer :
+- Un Notion avec ma boîte, le problème que je résous, ma cible, et mon blocage actuel
+- 3 questions maximum
+
+Tu regardes quand tu as le temps et tu me fais une voice note.
+
+[Sign-off]
+```
+
+---
+
 ## Template Customization Rules
 
 When adapting any template:
-1. Replace ALL placeholder text with real, specific content
-2. Add Tiramisu personalization (real research, not generic)
-3. Adjust word count to target range (50-125 for cold, etc.)
-4. Verify single CTA
-5. Check "you/your" ratio (must exceed "I/we/our")
-6. Read aloud — if it sounds like a template, rewrite
-7. Run through the copy principles checklist
+1. **Garlic & Ham test** — am I selling what they WANT? (not features)
+2. **Relevance test** — does my personalization connect to my value proposition?
+3. **"What do they GAIN?" test** — clear answer for why they'd respond
+4. Replace ALL placeholder text with real, specific content
+5. Add Tiramisu personalization (real research, not generic)
+6. Adjust word count to target range (50-125 for cold, etc.)
+7. Verify single CTA with limited choices
+8. Check "you/your" ratio (must exceed "I/we/our")
+9. Read aloud — if it sounds like a template, rewrite
+10. Use their "verbe intime" — formal/informal matching
+11. Run through the copy principles checklist
